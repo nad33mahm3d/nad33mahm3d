@@ -20,10 +20,10 @@ I'm **Founder & CEO at [SolveMotive](https://www.solvemotive.com)**, where we bu
 
 Public work under **[@nad33mahm3d](https://github.com/nad33mahm3d)** — experiments, tools, and demos.
 
-[![dex-amm-price-stabilizer](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=dex-amm-price-stabilizer&theme=radical)](https://github.com/nad33mahm3d/dex-amm-price-stabilizer)
-[![OpenAI-ResumeParser](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=OpenAI-ResumeParser&theme=radical)](https://github.com/nad33mahm3d/OpenAI-ResumeParser)
-[![gitlab-bulk-cloner](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=gitlab-bulk-cloner&theme=radical)](https://github.com/nad33mahm3d/gitlab-bulk-cloner)
-[![erc20-token-project](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=erc20-token-project&theme=radical)](https://github.com/nad33mahm3d/erc20-token-project)
+[![dex-amm-price-stabilizer](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=dex-amm-price-stabilizer&theme=radical)](https://github.com/nad33mahm3d/dex-amm-price-stabilizer)
+[![OpenAI-ResumeParser](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=OpenAI-ResumeParser&theme=radical)](https://github.com/nad33mahm3d/OpenAI-ResumeParser)
+[![gitlab-bulk-cloner](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=gitlab-bulk-cloner&theme=radical)](https://github.com/nad33mahm3d/gitlab-bulk-cloner)
+[![erc20-token-project](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=erc20-token-project&theme=radical)](https://github.com/nad33mahm3d/erc20-token-project)
 
 ---
 
@@ -38,10 +38,10 @@ Public work under **[@nad33mahm3d](https://github.com/nad33mahm3d)** — experim
 
 ### SolveMotive on GitHub
 
-[![shipcrew-ai](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=shipcrew-ai&theme=radical)](https://github.com/solvemotive/shipcrew-ai)
-[![chartledger-demo](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=chartledger-demo&theme=radical)](https://github.com/solvemotive/chartledger-demo)
-[![claude-project-kit](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=claude-project-kit&theme=radical)](https://github.com/solvemotive/claude-project-kit)
-[![wallet-connect-kit](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=wallet-connect-kit&theme=radical)](https://github.com/solvemotive/wallet-connect-kit)
+[![shipcrew-ai](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=shipcrew-ai&theme=radical)](https://github.com/solvemotive/shipcrew-ai)
+[![chartledger-demo](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=chartledger-demo&theme=radical)](https://github.com/solvemotive/chartledger-demo)
+[![claude-project-kit](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=claude-project-kit&theme=radical)](https://github.com/solvemotive/claude-project-kit)
+[![wallet-connect-kit](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=wallet-connect-kit&theme=radical)](https://github.com/solvemotive/wallet-connect-kit)
 
 **Studio site:** [solvemotive.com](https://www.solvemotive.com) · **Org:** [github.com/solvemotive](https://github.com/solvemotive)
 
@@ -127,5 +127,5 @@ Silver Medalist · CGPA **3.61 / 4.0**
 
 ## GitHub stats
 
-![Nadeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nad33mahm3d&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nad33mahm3d&layout=compact&theme=radical)
+![Nadeem's GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=nad33mahm3d&show_icons=true&theme=radical)
+![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nad33mahm3d&layout=compact&theme=radical)

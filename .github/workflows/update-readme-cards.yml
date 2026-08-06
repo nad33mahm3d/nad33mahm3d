@@ -1,0 +1,107 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-readme-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=nad33mahm3d&show_icons=true&theme=radical
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=nad33mahm3d&layout=compact&theme=radical
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin dex-amm-price-stabilizer
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=nad33mahm3d&repo=dex-amm-price-stabilizer&theme=radical
+          path: profile/pin-dex-amm-price-stabilizer.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin OpenAI-ResumeParser
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=nad33mahm3d&repo=OpenAI-ResumeParser&theme=radical
+          path: profile/pin-OpenAI-ResumeParser.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin gitlab-bulk-cloner
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=nad33mahm3d&repo=gitlab-bulk-cloner&theme=radical
+          path: profile/pin-gitlab-bulk-cloner.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin erc20-token-project
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=nad33mahm3d&repo=erc20-token-project&theme=radical
+          path: profile/pin-erc20-token-project.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin shipcrew-ai
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=solvemotive&repo=shipcrew-ai&theme=radical
+          path: profile/pin-shipcrew-ai.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin chartledger-demo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=solvemotive&repo=chartledger-demo&theme=radical
+          path: profile/pin-chartledger-demo.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin claude-project-kit
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=solvemotive&repo=claude-project-kit&theme=radical
+          path: profile/pin-claude-project-kit.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin wallet-connect-kit
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=solvemotive&repo=wallet-connect-kit&theme=radical
+          path: profile/pin-wallet-connect-kit.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

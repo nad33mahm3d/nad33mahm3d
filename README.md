@@ -4,6 +4,8 @@
 
 > _“Code with purpose, lead with clarity, and never stop building.”_
 
+**Open to:** Fractional CTO · architecture advisory · product builds
+
 ---
 
 ## About
@@ -18,17 +20,10 @@ I'm **Founder & CEO at [SolveMotive](https://www.solvemotive.com)**, where we bu
 
 Public work under **[@nad33mahm3d](https://github.com/nad33mahm3d)** — experiments, tools, and demos.
 
-### [dex-amm-price-stabilizer](https://github.com/nad33mahm3d/dex-amm-price-stabilizer)
-> TypeScript bot for Polygon: compares Uniswap V3 and QuickSwap V2 pool prices to a target and runs bounded stabilization trades. Dry-run, retries, structured logs.
-
-### [OpenAI-ResumeParser](https://github.com/nad33mahm3d/OpenAI-ResumeParser)
-> Production-style resume parser in Go + OpenAI — structured extraction from PDF, DOCX, and TXT, with Docker + Nginx serving the UI and API.
-
-### [gitlab-bulk-cloner](https://github.com/nad33mahm3d/gitlab-bulk-cloner)
-> Bash utility to clone every repo in a GitLab group (including subgroups) while preserving folder structure via the GitLab API.
-
-### [erc20-token-project](https://github.com/nad33mahm3d/erc20-token-project)
-> Custom ERC-20 token in Solidity on Ethereum testnet — mint, transfer, approve, and deployment practice for on-chain assets.
+[![dex-amm-price-stabilizer](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=dex-amm-price-stabilizer&theme=radical)](https://github.com/nad33mahm3d/dex-amm-price-stabilizer)
+[![OpenAI-ResumeParser](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=OpenAI-ResumeParser&theme=radical)](https://github.com/nad33mahm3d/OpenAI-ResumeParser)
+[![gitlab-bulk-cloner](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=gitlab-bulk-cloner&theme=radical)](https://github.com/nad33mahm3d/gitlab-bulk-cloner)
+[![erc20-token-project](https://github-readme-stats.vercel.app/api/pin/?username=nad33mahm3d&repo=erc20-token-project&theme=radical)](https://github.com/nad33mahm3d/erc20-token-project)
 
 ---
 
@@ -43,10 +38,10 @@ Public work under **[@nad33mahm3d](https://github.com/nad33mahm3d)** — experim
 
 ### SolveMotive on GitHub
 
-- [shipcrew-ai](https://github.com/solvemotive/shipcrew-ai) — AI software-house workflows for end-to-end delivery
-- [chartledger-demo](https://github.com/solvemotive/chartledger-demo) — Next.js financial charts + programmatic SEO demo
-- [claude-project-kit](https://github.com/solvemotive/claude-project-kit) — Claude Code project structure, templates, and Agent Skills
-- [wallet-connect-kit](https://github.com/solvemotive/wallet-connect-kit) — Next.js starter for Ethereum wallet connect (wagmi / viem / WalletConnect)
+[![shipcrew-ai](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=shipcrew-ai&theme=radical)](https://github.com/solvemotive/shipcrew-ai)
+[![chartledger-demo](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=chartledger-demo&theme=radical)](https://github.com/solvemotive/chartledger-demo)
+[![claude-project-kit](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=claude-project-kit&theme=radical)](https://github.com/solvemotive/claude-project-kit)
+[![wallet-connect-kit](https://github-readme-stats.vercel.app/api/pin/?username=solvemotive&repo=wallet-connect-kit&theme=radical)](https://github.com/solvemotive/wallet-connect-kit)
 
 **Studio site:** [solvemotive.com](https://www.solvemotive.com) · **Org:** [github.com/solvemotive](https://github.com/solvemotive)
 
